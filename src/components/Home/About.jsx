@@ -20,44 +20,21 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow"> Cole Baugh </span>
+                 and I'm from <span className="yellow"> Philadelphia PA.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I am a Math And Computer Science Major @ Arcadia University set to gradutate May 2024.
                 <br />
                 <br />
-                  As a
-                  <b className="yellow"> Full-Stack </b>developer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  My Interest are 
+                  <b className="yellow"> Cybersecurity & Networking</b>,  
+                  I like to take on new challenges and projects to expand my knowledge base.
                   <br />
-                  <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                  <br />I am proficient in Python and the metasploit framework.
                   <br />
                   <br />
-                  I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
-                  <i>
-                    <b className="yellow">
-                      {" "}
-                      modern Javascript libraries and frameworks
-                    </b>
-                  </i>
-                  &nbsp; like
-                  <i>
-                    <b className="yellow"> React.js</b>
-                  </i>
-                  <br />
-                  <br />
-                  I am also interested in building new
-                  <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
-                    <b className="yellow"> Artificial Intelligence.</b>
-                  </i>
-                  <br />
+                  
                   
                 </p>
               </Col>
@@ -76,7 +53,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/fedxjk"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -85,7 +62,7 @@ const About = () => {
                       <AiFillGithub />
                     </a>
                   </li>
-                  <li className="social-icons">
+                  {/* <li className="social-icons">
                     <a
                       href="https://twitter.com/19sajib"
                       target="_blank"
@@ -95,10 +72,10 @@ const About = () => {
                     >
                       <AiOutlineTwitter />
                     </a>
-                  </li>
+                  </li> */}
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/cole-b-5b1b821b9/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -107,7 +84,7 @@ const About = () => {
                       <FaLinkedinIn />
                     </a>
                   </li>
-                  <li className="social-icons">
+                  {/* <li className="social-icons">
                     <a
                       href="https://www.instagram.com/19sajib"
                       target="_blank"
@@ -117,7 +94,7 @@ const About = () => {
                     >
                       <AiFillInstagram />
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </Col>
             </Row>
